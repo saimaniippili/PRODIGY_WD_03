@@ -7,8 +7,6 @@
 
 This is a Simple Tic Tac Toe Game playable for 2 players.
 
-#### Live Link - https://shobhit1338.github.io/Tic-Tac-Toe-using-React/
-
 ## Features 
 
 - Play as A and B with your partner (2 Players).
